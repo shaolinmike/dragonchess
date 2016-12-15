@@ -7,5 +7,4 @@ The Dragonchess gameboard consists of three vertically stacked 12×8 levels. The
 
 The Dragonchess game pieces (42 per player) are an ensemble of characters and monsters inspired or derived from fantasy settings in Dungeons & Dragons. Intricate inter- and intra-level game piece capabilities are defined. As in chess, the game is won by delivering checkmate to the enemy king.
 
-
-The Dragonchess 3D gameboard (https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Dragonchess_gameboard.png/305px-Dragonchess_gameboard.png)
+The Dragonchess 3D gameboard (https://en.wikipedia.org/wiki/File:Dragonchess_gameboard.png)
